@@ -6,6 +6,7 @@
   border-radius: 50%;
   animation-name: girar;
   animation-duration: 2s;
+  animation-iteration-count: infinite;
 }
 @keyframes girar {
   from {
